@@ -63,6 +63,26 @@ Data was collected using **web scraping**, then cleaned, normalized, and merged 
 
 ---
 
+## Results
+
+Relationship model formed:
+<img width="746" height="345" alt="image" src="https://github.com/user-attachments/assets/54721467-3420-4bcb-9fe3-385bbd962a6e" />
+
+Neo4j Knowledge Graph:
+<img width="1480" height="814" alt="Screenshot 2025-06-03 150653" src="https://github.com/user-attachments/assets/40c5718c-7695-4542-8155-fd994635618c" />
+
+Hadith website deployment:
+<img width="883" height="416" alt="image" src="https://github.com/user-attachments/assets/39c73939-55a0-4538-93ea-6e5026a68190" />
+
+<img width="883" height="417" alt="image" src="https://github.com/user-attachments/assets/777e16f1-b7a6-4bf8-a946-db19799af8e5" />
+
+<img width="883" height="293" alt="image" src="https://github.com/user-attachments/assets/22408ea5-5aef-4726-bbd6-e87f5e075dea" />
+
+<img width="884" height="236" alt="image" src="https://github.com/user-attachments/assets/d4ecd8fa-e3c3-4b7a-822a-5b627a76e146" />
+
+
+---
+
 ## 📊 Model Performance
 
 The tagging model was evaluated against **human-extracted ground truth**:
